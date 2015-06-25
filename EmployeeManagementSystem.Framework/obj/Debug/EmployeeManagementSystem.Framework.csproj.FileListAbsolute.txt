@@ -1,5 +1,0 @@
-C:\Users\Hp pc\Documents\Visual Studio 2012\Projects\EmployeeManagementSystem\EmployeeManagementSystem.Framework\bin\Debug\EmployeeManagementSystem.Framework.dll
-C:\Users\Hp pc\Documents\Visual Studio 2012\Projects\EmployeeManagementSystem\EmployeeManagementSystem.Framework\bin\Debug\EmployeeManagementSystem.Framework.pdb
-C:\Users\Hp pc\Documents\Visual Studio 2012\Projects\EmployeeManagementSystem\EmployeeManagementSystem.Framework\obj\Debug\EmployeeManagementSystem.Framework.csprojResolveAssemblyReference.cache
-C:\Users\Hp pc\Documents\Visual Studio 2012\Projects\EmployeeManagementSystem\EmployeeManagementSystem.Framework\obj\Debug\EmployeeManagementSystem.Framework.dll
-C:\Users\Hp pc\Documents\Visual Studio 2012\Projects\EmployeeManagementSystem\EmployeeManagementSystem.Framework\obj\Debug\EmployeeManagementSystem.Framework.pdb

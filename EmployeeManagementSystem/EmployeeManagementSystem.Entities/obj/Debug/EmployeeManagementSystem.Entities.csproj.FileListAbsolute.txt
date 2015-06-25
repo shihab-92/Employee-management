@@ -1,4 +1,0 @@
-C:\Users\Hp pc\Documents\Visual Studio 2012\Projects\EmployeeManagementSystem\EmployeeManagementSystem.Entities\bin\Debug\EmployeeManagementSystem.Entities.dll
-C:\Users\Hp pc\Documents\Visual Studio 2012\Projects\EmployeeManagementSystem\EmployeeManagementSystem.Entities\bin\Debug\EmployeeManagementSystem.Entities.pdb
-C:\Users\Hp pc\Documents\Visual Studio 2012\Projects\EmployeeManagementSystem\EmployeeManagementSystem.Entities\obj\Debug\EmployeeManagementSystem.Entities.dll
-C:\Users\Hp pc\Documents\Visual Studio 2012\Projects\EmployeeManagementSystem\EmployeeManagementSystem.Entities\obj\Debug\EmployeeManagementSystem.Entities.pdb
